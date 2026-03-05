@@ -323,9 +323,19 @@ git merge feature-carrito
 
 ## Mapa mental
 
-![[Pasted image 20260305185623.png]]
+<img width="1536" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/05080bd1-01cf-42b9-9b0a-f29337218b1e" />
+
 
 
 ## Diagrama de flujo
 
-![[Pasted image 20260305190127.png]]
+<img width="1024" height="1536" alt="imagen" src="https://github.com/user-attachments/assets/c1193746-091b-4b16-ba50-353c677f7138" />
+
+
+## Infografía
+
+<img width="1024" height="1536" alt="imagen" src="https://github.com/user-attachments/assets/5a5dffcb-c274-43c5-a974-9e4c923e6151" />
+
+
+
+
